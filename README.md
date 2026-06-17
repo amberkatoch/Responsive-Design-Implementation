@@ -15,14 +15,5 @@ Convert an existing UI into a fully responsive design.
 - Desktop Responsive
 - Flexible Layouts
 
-## Screenshots
-
-### Desktop View
-
-![Desktop View](screenshots/desktop view.png)
-### Mobile View
-
-![Mobile View](screenshots/mobile view.png)
-
 ## Author
 Adnan Akhtar
